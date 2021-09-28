@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "jest": "^27.2.3"
+  },
+  "scripts": {
+      "test": "jest --coverage"
+  }
+}
